@@ -10,3 +10,4 @@ wheels/
 .venv
 
 pgn-data
+tempo-data
