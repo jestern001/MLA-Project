@@ -1,0 +1,2 @@
+ChatGPT Prompts:
+- Do I always use drop_first for get_dummies
