@@ -1,2 +1,8 @@
 ChatGPT Prompts:
-- Do I always use drop_first for get_dummies
+- how do I do linear regression in stats model
+- I meant in python, not R
+- I see smf.OLS but not smf.ols
+- what does OLS stand for
+- what does smf stand for vs sm
+- how to I get specific attributes of the OLS summary table programatically
+- how do I add jitter to a matplotlib plot
