@@ -1,0 +1,6 @@
+ChatGPT Prompts:
+- how do I make columns in a matploblib stand out more
+- how to get all but one column of a dataframe
+- how do I visualize a decision tree in sklearn
+- I want to use plot_tree text is too small and blurry
+- whats the XGBoost classifier called
